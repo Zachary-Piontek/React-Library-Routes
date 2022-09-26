@@ -1,7 +1,7 @@
 import BookList from './components/book/BookList';
 import './App.css';
 import { Route } from 'react-router-dom';
-import BookDetail from './components/book/BookDetail.js';
+import BookDetail from './components/book/BookDetail';
 
 function App() {
   // TODO: Add routes to books & views
